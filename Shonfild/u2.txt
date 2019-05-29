@@ -1,0 +1,9 @@
+INC 1;   
+DEC 1, 9;
+INC 1;   
+INC 4;   
+DEC 2, 3;
+INC 2;   
+DEC 4, 6;
+DEC 2, 9;
+DEC 3, 5;
